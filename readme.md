@@ -34,7 +34,7 @@
 
 TMDB API-KEY: 
 ````
-eb3428e4a33e89ba1946e24fcb6cfede
+20c54a18e3fdb6b26a9516b99ba3992b
 ````
 
 ## Step1: Launch EC2 instance
